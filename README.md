@@ -1,16 +1,6 @@
-# EmailSpammer
-
-This is one of my first projects im uploading to github.
-
----------------------------------------------------------
-What i need to do.
-
-[] Send emails Via Python.
-[] Make a loop to spam.
-[] Make input so you choose how much you want to spam.
-
-
---------------------------------------------------------
-
--Gmail Services
--Yahoo Services
+# Created by Tixsy#0666
+  # If you have questions dm me on discord, Tixsy#0666
+  # ----------------------------------------------------
+  # This was created for testing purposes.
+  # You will not use this for un - ethical use
+  # any legal or other things that happen to you is on you.
